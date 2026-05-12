@@ -86,5 +86,5 @@ The purpose of padding is to make memory retrieval easier in contiguous memory t
 -O1 optimization is primarily concerned with minor optimizations such as unnecessary memory to register calls while -O3 is concerned with new algorithms to make memory retrieval and several operations much faster. 
 
 
-OUTPUT OF PROGRAM
+OUTPUT OF PROGRAM (Photo from UMBC's GLSERVER)
 <img width="1012" height="901" alt="image" src="https://github.com/user-attachments/assets/53a4cb6a-2d8c-43f7-ba84-6dd406c0e5da" />
